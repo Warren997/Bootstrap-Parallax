@@ -10,7 +10,6 @@ For live view of this website please download this repo and open the index.html
 ![](img/thumbnail-desktop-4.png)
 ![](img/thumbnail-desktop-5.png)
 
-![](img/thumbnail-mobile.png)
 
 ![](img/thumbnail-mobile-1.png)
 ![](img/thumbnail-mobile-2.png)
